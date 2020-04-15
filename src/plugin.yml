@@ -1,0 +1,5 @@
+main: pl.chilleraiutopia.AntiAfkFishing.AntiAfkFishing
+name: AntiAfkFishing
+version: 0.1
+author: Asedi
+description: Simple anti afk fishing plugin
